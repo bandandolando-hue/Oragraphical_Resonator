@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  viewBox="0 0 100 100"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="6"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+
+    
+    <!-- Angular Root: /┼\ -->
+    <line x1="20" y1="80" x2="50" y2="50" />
+    <line x1="80" y1="80" x2="50" y2="50" />
+    <line x1="50" y1="20" x2="50" y2="80" />
+  
+    
+    <!-- Mark: Triad (∴) -->
+    <circle cx="72" cy="20" r="4" fill="currentColor" stroke="none" />
+    <circle cx="80" cy="20" r="4" fill="currentColor" stroke="none" />
+    <circle cx="76" cy="30" r="4" fill="currentColor" stroke="none" />
+  
+  
+</svg>

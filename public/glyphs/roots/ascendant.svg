@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  viewBox="0 0 100 100"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="black"
+  stroke-width="6"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <!-- Ascendant Root: triangle pointing up -->
+  <path d="M20 80 L50 20 L80 80" />
+</svg>

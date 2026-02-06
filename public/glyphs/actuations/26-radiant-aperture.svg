@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  viewBox="0 0 100 100"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="6"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+
+    
+    <!-- Divergent Root: <─> -->
+    <path d="M30 30 L10 50 L30 70" />
+    <line x1="30" y1="50" x2="70" y2="50" />
+    <path d="M70 30 L90 50 L70 70" />
+  
+    
+    <!-- Mark: Duality (:) -->
+    <circle cx="72" cy="22" r="4" fill="currentColor" stroke="none" />
+    <circle cx="78" cy="28" r="4" fill="currentColor" stroke="none" />
+  
+  
+</svg>

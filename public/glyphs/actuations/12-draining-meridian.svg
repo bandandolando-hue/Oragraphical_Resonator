@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  viewBox="0 0 100 100"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="6"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+
+    
+    <!-- Descendant Root: downward triangle -->
+    <path d="M20 20 L50 80 L80 20" />
+  
+    
+    <!-- Mark: Double Impulse (″) -->
+    <line x1="70" y1="20" x2="78" y2="28" />
+    <line x1="75" y1="25" x2="83" y2="33" />
+  
+  
+</svg>

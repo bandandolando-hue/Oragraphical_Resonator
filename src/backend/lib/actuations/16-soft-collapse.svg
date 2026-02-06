@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  viewBox="0 0 100 100"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="6"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+
+    
+    <!-- Descendant Root: downward triangle -->
+    <path d="M20 20 L50 80 L80 20" />
+  
+    
+    <!-- Mark: Inverse Triad (∵) -->
+    <circle cx="76" cy="20" r="4" fill="currentColor" stroke="none" />
+    <circle cx="72" cy="30" r="4" fill="currentColor" stroke="none" />
+    <circle cx="80" cy="30" r="4" fill="currentColor" stroke="none" />
+  
+  
+</svg>

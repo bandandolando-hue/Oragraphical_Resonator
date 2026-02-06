@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  viewBox="0 0 100 100"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="6"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+
+    
+    <!-- Convergent Root: >─< -->
+    <path d="M20 50 L45 30" />
+    <path d="M20 50 L45 70" />
+    <line x1="45" y1="50" x2="55" y2="50" />
+    <path d="M80 50 L55 30" />
+    <path d="M80 50 L55 70" />
+  
+    
+    <!-- Mark: Double Impulse (″) -->
+    <line x1="70" y1="20" x2="78" y2="28" />
+    <line x1="75" y1="25" x2="83" y2="33" />
+  
+  
+</svg>
